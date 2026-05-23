@@ -206,12 +206,6 @@ When a person is detected falling or lying down:
 
 ---
 
-## 📄 License
-
-MIT License — Based on [RuView](https://github.com/ruvnet/RuView) by ruvnet (MIT License)
-
----
-
 <div align="center">
 
 **Built with ❤️ by [doppiadmin-rgb](https://github.com/doppiadmin-rgb)**
